@@ -1,3 +1,2 @@
 # list
-ip1=39.103.63.156
-ip2=150.223.196.106
+# merge from web3awesome
